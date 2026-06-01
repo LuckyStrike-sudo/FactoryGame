@@ -4,7 +4,7 @@ FactoryGame is a personal factory simulation game inspired by games like Factori
 
 ## License
 
-Copyright (c) 2026 [Your Name]. All rights reserved.
+Copyright (c) 2026 Caedmon Boutwell. All rights reserved.
 
 This repository is public for portfolio and educational review purposes.
 
